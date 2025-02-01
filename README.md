@@ -9,8 +9,6 @@ You will learn how to use the sensors and I/Os of the RSLK:<br/>
 - LED
 - Button
 
-(https://a.pololu-files.com/picture/0J10945.1200.jpg)
-
 ## Recomendations:
 - Read up before going for labs. The labs are simple enough to be completed within 1 or 2 sessions (attend free access)
 - For the final test, I recommend attend free access as much as possible to do everything possible with the RSLK and its sensor. You should try to implement the following:
